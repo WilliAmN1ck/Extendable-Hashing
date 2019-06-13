@@ -1,0 +1,11 @@
+2,Clerk,Maxwell
+4,Ada,Byron
+6,Gottlob,Frege
+8,Alan,Turing
+10,Winifred,Merrill
+12,Leonhard,Euler
+14,Alonzo,Church
+16,Sofia,Kovalevskaya
+18,Mary,Shelley
+20,Oscar,Wilde
+22,Anton,Chekhov

@@ -1,0 +1,12 @@
+1,David,Hilbert
+3,Bertrand,Russell
+5,Mary,Everest
+7,Ludwig,Wittgenstein
+9,John,Mauchly
+11,Sophie,Germain
+13,Maxwell,Weber
+15,Kurt,Godel
+17,Emmy,Noether
+19,George,Eliot
+21,Vladimir,Nabokov
+23,Leo,Tolstoy
